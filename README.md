@@ -25,10 +25,5 @@ I am an **AI/ML Engineer** with a unique background. With 10 years of experience
 
 ---
 
-### 📈 GitHub Stats
-![Alicja's GitHub stats](https://github-readme-stats.vercel.app/api?username=adolachowska&show_icons=true&theme=radium)
-
----
-
 ### 📫 Let's connect!
 * **LinkedIn:** [Alicja Daniela Olachowska](https://www.linkedin.com/in/adolachowska)
