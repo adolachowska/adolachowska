@@ -8,7 +8,7 @@ I am an **AI/ML Engineer** with a unique background. With 10 years of experience
 * 🎓 Finishing my **AI Mastery Postgraduate Studies** at SWPS University.
 * 💻 Developing **POLKA** – a predictive ML system built with an end-to-end approach (from EDA, XGBoost training, to containerized FastAPI deployment).
 * 🌱 Expanding my knowledge in **Cloud architectures (Azure/AWS)** and **MLOps**.
-* Certificate: Generative AI with Large Language Models | DeepLearning.AI | 2026
+* 🤖 Certificate: **Generative AI with Large Language Models** | DeepLearning.AI | 2026
 
 ---
 
