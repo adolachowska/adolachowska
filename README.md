@@ -1,30 +1,20 @@
-### ➡️ From Project Manager to Architecting AI Solutions
+# From Project Manager to AI & ML Engineer
 
-I am an **AI/ML Engineer** with a unique background. With 10 years of experience as a Senior Project Manager and a licensed Architect, I bring a rare combination to the tech world: **end-to-end project ownership, deep business understanding, and rigorous engineering standards**, now applied to Machine Learning pipelines.
+I leverage 10+ years of experience managing complex engineering projects and strict technical constraints to build scalable, production-ready AI systems. My superpower? Translating real-world business requirements into robust Machine Learning pipelines and RAG architectures. I don't just write code; I design end-to-end solutions.
 
----
+### What I'm working on right now
+*   **POLKA (Environmental)**: Designing an Agentic AI & RAG system. I'm utilizing **LangChain**, integrated LLMs, and **PostgreSQL (pgvector)** to automate the parsing and retrieval of complex, unstructured historical data.
+*   **POLKA (Basic)**: Built an end-to-end predictive pipeline using **XGBoost**. This includes an automated ETL pipeline (processing 40k+ records), deployed via a **FastAPI** backend, and containerized with **Docker** for cloud readiness.
+*   **AI Mastery Postgraduate Degree** at SWPS University[cite: 2].
 
-### ➡️ What I'm working on right now
-* 🎓 Finishing my **AI Mastery Postgraduate Studies** at SWPS University.
-* 💻 Developing **POLKA** – a predictive ML system built with an end-to-end approach (from EDA, XGBoost training, to containerized FastAPI deployment).
-* 🌱 Expanding my knowledge in **Cloud architectures (Azure/AWS)** and **MLOps**.
-* 🤖 Certificate: **Generative AI with Large Language Models** | DeepLearning.AI | 2026
+### Tech Stack
+*   **AI & Machine Learning:** LLMs, RAG, NLP, PyTorch, TensorFlow, Scikit-learn, Hugging Face, LangChain[cite: 2].
+*   **Data Engineering & Backend:** Python (OOP), FastAPI, PostgreSQL (pgvector), ETL Pipelines[cite: 2].
+*   **MLOps & Deployment:** Docker, AWS/Azure concepts, CI/CD conceptual frameworks[cite: 2].
 
----
+### Certifications
+*   Generative AI with Large Language Models | DeepLearning.AI | 2026[cite: 2]
+*   Unlimited Architectural Design License (IARP) – *Proof of my capacity for full liability and systemic thinking in mission-critical environments.*[cite: 2]
 
-### ➡️ Tech Stack
-**Machine Learning & Data Science:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-**Backend & Architecture:**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-### 📫 Let's connect!
-* **LinkedIn:** [Alicja Daniela Olachowska](https://www.linkedin.com/in/adolachowska)
+### Let's connect!
+*   **LinkedIn**: [Alicja Daniela Olachowska](https://linkedin.com/in/adolachowska)[cite: 2]
