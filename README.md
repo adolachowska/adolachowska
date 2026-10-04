@@ -17,4 +17,4 @@ I leverage 10+ years of experience managing complex engineering projects and str
 *   Unlimited Architectural Design License (IARP) – *Proof of my capacity for full liability and systemic thinking in mission-critical environments.*[cite: 2]
 
 ### Let's connect!
-*   **LinkedIn**: [Alicja Daniela Olachowska](https://linkedin.com/in/adolachowska)
+*   **LinkedIn**: [Alicja Daniela Olachowska](https://linkedin.com/in/adolachowska)[cite: 2]
