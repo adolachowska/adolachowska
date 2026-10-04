@@ -8,13 +8,14 @@ I leverage 10+ years of experience managing complex engineering projects and str
 *   **AI Mastery Postgraduate Degree** at SWPS University.
 
 ### Tech Stack
-*   **AI & Machine Learning:** LLMs, RAG, NLP, PyTorch, TensorFlow, Scikit-learn, Hugging Face, LangChain[cite: 2].
-*   **Data Engineering & Backend:** Python (OOP), FastAPI, PostgreSQL (pgvector), ETL Pipelines[cite: 2].
-*   **MLOps & Deployment:** Docker, AWS/Azure concepts, CI/CD conceptual frameworks[cite: 2].
+*   **AI & Machine Learning:** LLMs, RAG, NLP, PyTorch, TensorFlow, Scikit-learn, Hugging Face, LangChain.
+*   **Data Engineering & Backend:** Python (OOP), FastAPI, PostgreSQL (pgvector), ETL Pipelines.
+*   **MLOps & Deployment:** Docker, AWS/Azure concepts, CI/CD conceptual frameworks.
 
 ### Certifications
-*   Generative AI with Large Language Models | DeepLearning.AI | 2026[cite: 2]
-*   Unlimited Architectural Design License (IARP) – *Proof of my capacity for full liability and systemic thinking in mission-critical environments.*[cite: 2]
+*   Generative AI with Large Language Models | DeepLearning.AI | 2026
+*   Data Science Micro-Courses** (Feature Engineering, Intro & Advanced SQL, Data Visualization) | Kaggle | 2026
+*   Unlimited Architectural Design License (IARP) – *Proof of my capacity for full liability and systemic thinking in mission-critical environments.*
 
 ### Let's connect!
-*   **LinkedIn**: [Alicja Daniela Olachowska](https://linkedin.com/in/adolachowska)[cite: 2]
+*   **LinkedIn**: [Alicja Daniela Olachowska](https://linkedin.com/in/adolachowska)
