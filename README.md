@@ -5,7 +5,7 @@ I leverage 10+ years of experience managing complex engineering projects and str
 ### What I'm working on right now
 *   **POLKA (Environmental)**: Designing an Agentic AI & RAG system. I'm utilizing **LangChain**, integrated LLMs, and **PostgreSQL (pgvector)** to automate the parsing and retrieval of complex, unstructured historical data.
 *   **POLKA (Basic)**: Built an end-to-end predictive pipeline using **XGBoost**. This includes an automated ETL pipeline (processing 40k+ records), deployed via a **FastAPI** backend, and containerized with **Docker** for cloud readiness.
-*   **AI Mastery Postgraduate Degree** at SWPS University[cite: 2].
+*   **AI Mastery Postgraduate Degree** at SWPS University.
 
 ### Tech Stack
 *   **AI & Machine Learning:** LLMs, RAG, NLP, PyTorch, TensorFlow, Scikit-learn, Hugging Face, LangChain[cite: 2].
